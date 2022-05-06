@@ -2,11 +2,11 @@
 
 <h3 align="center">I am an enthusiastic Argentine programmer who wants to share his knowledge and learn by working</h3>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📲 Get in touch
+<h3 align="left">📲 Get in touch
 
 -Instagram:[https://www.instagram.com/agu_pizarro/](https://www.instagram.com/agu_pizarro/)
 
--Facebook: [https://www.facebook.com/agustin.pizarro.505](https://www.facebook.com/agustin.pizarro.505)
+-Facebook: [https://www.facebook.com/agustin.pizarro.505](https://www.facebook.com/agustin.pizarro.505)</h3>
 
 <h3 align="left">Languages:</h3>
 
