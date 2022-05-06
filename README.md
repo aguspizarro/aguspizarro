@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <h3 align="center">I am an enthusiastic Argentine programmer who wants to share his knowledge and learn by working</h3>
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h3 align="left">📲 Get in touch
 
 -Instagram:[https://www.instagram.com/agu_pizarro/](https://www.instagram.com/agu_pizarro/)
